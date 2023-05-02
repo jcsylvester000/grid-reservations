@@ -1,0 +1,56 @@
+--------------------
+
+MongoDB Atlas information is
+
+username: jcsylvester000
+pass: qMbfdc9p8BRaqQ3s
+
+URL compatible for prisma: http://mongodb+srv://jcsylvester000:qMbfdc9p8BRaqQ3s@gridreservations.6ddycrk.mongodb.net/test
+
+we need to push a command to our mongodb cluster:
+npx prisma db push
+
+----------------------
+
+How To get Next Auth Secret:
+
+"NEXTAUTH_SECRET"
+
+
+-------------------------
+
+Github Login Information for Login:
+
+github id: 1e77b97809fee6500484
+
+client secret: ed7230853b92cab47cac1eb5d799614bb0149910
+
+
+----------------------------------------------------------------
+Google info for 0Auth:
+
+Client ID: 1074081193480-nhu5dl38h9iiqhr5gbk2u4sgjgecroh0.apps.googleusercontent.com
+
+Client Secret: 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
+
+---------------------------------------------------------------
+
+Cloudinary Info:
+
+cloud name: dcxxqgpx9
+
+you will need to create a upload preset
+
+upload preset: kr24mhea
+
+------------------------------------------------------------------------------------
+
+Upload to your Github account:
+
+echo "# grid-reservations" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jcsylvester000/grid-reservations.git
+git push -u origin main
